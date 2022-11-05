@@ -1,0 +1,16 @@
+#Footer{
+    display: flex;
+    align-items:flex-start;
+}
+
+#footercontainer{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    padding: 1vw;
+}
+
+.icons{
+    padding: 1vw;
+    cursor: pointer;
+}
