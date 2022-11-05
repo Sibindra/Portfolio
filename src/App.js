@@ -2,7 +2,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 
-import "./components/styles/index.css"
+import "./components/styles/Index.css"
 
 function App() {
   return (
