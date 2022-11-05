@@ -4,3 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Technologies Used
 - figma for design 
 - vs code and react fro development
+
+# Todo
+[]- make it responsive 
+[]- add about and skills page 
